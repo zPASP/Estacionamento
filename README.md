@@ -15,22 +15,22 @@ No fecahamento tem a opção simples ou detalhada do caixa.<br>
 _________
 
 Entrada de veiculo no estacionamento.<p>
-<img src="#" align="center" alt="entrada"/><br>
+<img src="https://raw.githubusercontent.com/zPASP/Estacionamento/master/imagens/1.png" align="center" alt="entrada"/><br>
 _________
 
 Exibição dos boxes do estacionamento.<p>
-<img src="#" align="center" alt="boxes"/><br>
+<img src="https://raw.githubusercontent.com/zPASP/Estacionamento/master/imagens/2.png" align="center" alt="boxes"/><br>
 _________
 
 Saida de veiculo do estacionamento.<p>
-<img src="#" align="center" alt="saida"/><br>
+<img src="https://raw.githubusercontent.com/zPASP/Estacionamento/master/imagens/3.png" align="center" alt="saida"/><br>
 _________
 
 Fechamento caixa detalhado.<p>
-<img src="#" align="center" alt="fechamentod"/><br>
+<img src="https://raw.githubusercontent.com/zPASP/Estacionamento/master/imagens/4.png" align="center" alt="fechamentod"/><br>
 _________
 
 Fechamaneto caixa simplificado.<p>
-<img src="#" align="center" alt="fechamentos"/><br>
+<img src="https://raw.githubusercontent.com/zPASP/Estacionamento/master/imagens/5.png" align="center" alt="fechamentos"/><br>
 _________
 
